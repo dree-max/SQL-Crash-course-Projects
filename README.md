@@ -1,1 +1,1 @@
-# SQL-Crash-course-Week-One-Project
+# SQL-Crash-course-Projects
